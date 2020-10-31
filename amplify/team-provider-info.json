@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextauthentication-dev-32049-authRole",
+      "UnauthRoleArn": "arn:aws:iam::414238480542:role/amplify-nextauthentication-dev-32049-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::414238480542:role/amplify-nextauthentication-dev-32049-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nextauthentication-dev-32049-deployment",
+      "UnauthRoleName": "amplify-nextauthentication-dev-32049-unauthRole",
+      "StackName": "amplify-nextauthentication-dev-32049",
+      "StackId": "arn:aws:cloudformation:us-east-1:414238480542:stack/amplify-nextauthentication-dev-32049/042b60f0-1afa-11eb-8865-0a720c487c5f",
+      "AmplifyAppId": "d3e378mdn2nug9"
+    },
+    "categories": {
+      "auth": {
+        "nextauthenticationd9ef1431": {}
+      }
+    }
+  }
+}

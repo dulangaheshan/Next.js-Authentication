@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "nextauthenticationd9ef1431": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

@@ -8,6 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^0.2.25",
+    "aws-amplify": "^3.3.5",
+    "emotion": "^10.0.27",
     "next": "10.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
